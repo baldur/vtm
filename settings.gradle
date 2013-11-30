@@ -1,0 +1,5 @@
+include ':vtm-extras'
+include ':vtm-android-example'
+include ':vtm-ext-libs'
+include ':vtm'
+include ':vtm-android'

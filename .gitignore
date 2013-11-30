@@ -2,10 +2,12 @@
 */gen/*
 */obj/*
 target/
+*/build/*
 *.o
 *.so
 *.jar
 *.class
+.gradle
 /vtm/jni/jni-headers/
 /vtm/jni/build*
 /vtm/jni/*.mk
